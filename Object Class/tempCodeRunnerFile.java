@@ -1,0 +1,2 @@
+ age){
+        this.name=name;

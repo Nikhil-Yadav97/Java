@@ -1,4 +1,3 @@
-package Interface;
 
 public public class MultiInherit1 {
     public static void main(String[] args) {
